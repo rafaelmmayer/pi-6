@@ -16,7 +16,6 @@
             "http://localhost:8000?frase=asodhasijdnhasuidbas"
         );
         const json = await res.json();
-
         message = json.message;
     });
 </script>

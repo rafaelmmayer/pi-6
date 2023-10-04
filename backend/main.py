@@ -17,6 +17,5 @@ app.add_middleware(
 
 @app.get("/")
 async def root(frase: str):
-    gr = greeting("Rafa")
-
+    
     return { "message": frase }
