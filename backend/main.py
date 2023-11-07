@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware  
-from utils.nltk import greeting
+from utils.nltk import get_message
+from utils.IA import get_sugestoes
+import threading
 
 app = FastAPI()
 
@@ -16,6 +18,19 @@ app.add_middleware(
 )
 
 @app.get("/")
-async def root(frase: str):
-    
-    return { "message": frase }
+async def root(frase: str, num_sugestoes = '3'):
+
+    num_sugestoes = int(num_sugestoes)
+
+    res = []
+    threads = []
+
+    for i in range(num_sugestoes):
+        t = threading.Thread(target=get_sugestoes, args=(frase, res))
+        t.start()
+        threads.append(t)
+
+    for t in threads:
+        t.join()
+
+    return { "sugestoes": res }
