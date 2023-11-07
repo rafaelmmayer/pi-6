@@ -6,14 +6,14 @@
     let inputRes;
 
     async function clickBtnHandler() {
-        const res = await fetch(`http://localhost:8000?frase=${inputText}`);
+        const res = await fetch(`http://localhost:8000?phrase=${inputText}`);
         const json = await res.json();
         inputRes = json.message;
     }
 
     onMount(async () => {
         const res = await fetch(
-            "http://localhost:8000?frase=asodhasijdnhasuidbas"
+            "http://localhost:8000?phrase=asodhasijdnhasuidbas"
         );
         const json = await res.json();
         message = json.message;
