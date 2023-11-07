@@ -50,6 +50,53 @@
     ["Sim", "Não", "Um pouco", "Acho que sim", "Acho que não", "Não sei", "deve estar", "provavelmente sim", "provavelmente não", "demais", "quente demais", "um calorão!", "um absurdo de quente", "muito quente"],
     ["Sim", "Não", "Um pouco", "Acho que sim", "Acho que não", "Não sei", "deve estar", "provavelmente sim", "provavelmente não", "demais", "frio demais", "geando", "um absurdo de frio", "muito frio"],
     ["Sim é verão", "Não", "não é verão", "Sim", "não vê o calor?", "Claro", "Está parecendo", "Provavelmente sim", "Pelo calor", "sim", "Não sei", "Não faço ideia", "Acho que é"],
-    ["Sim", "é inverno", "Não", "não é inverno", "Sim", "não vê o frio?", "Claro", "Está parecendo", "Provavelmente sim", "Pelo frio, sim", "Não sei", "Não faço ideia", "Acho que é"]
+    ["Sim", "é inverno", "Não", "não é inverno", "Sim", "não vê o frio?", "Claro", "Está parecendo", "Provavelmente sim", "Pelo frio, sim", "Não sei", "Não faço ideia", "Acho que é"],
+    ["Sim", "é", "parece que sim", "acho que sim", "sim é outono", "aparentemente sim", "aparentemente não"],
+    ["Sim", "é", "parece que sim", "acho que sim", "sim é primavera", "aparentemente sim", "aparentemente não"],
+    ["Ameno", "Calor", "Frio", "está ensolarado", "não sei", "muito frio", "muito quente", "nublado", "ventando muito"],
+    ["Votei", "já fiz", "a votação", "sim", "não", "ainda não fiz a votação", "claro", "obviamente"],
+    ["Votei", "já fiz", "a votação", "sim", "não", "ainda não fiz a votação", "claro", "obviamente"],
+    ["Começa agora", "ainda não", "já começou", "Claro", "Sim", "não", "vai começar"],
+    ["Começa agora", "ainda não", "já começou", "Claro", "Sim", "não", "vai começar", "acabou agora", "está acabando"],
+    ["Ainda não sei", "não sei", "Seila", "não faço ideia", "vou pensar", "vou decidir", "preciso analisar"],
+    ["Tenho", "ainda não", "não tenho", "queria ter", "não preciso ter", "preciso comprar um"],
+    ["Sim", "não", "ainda não", "acho que vou comprar", "devo comprar em breve", "comprei recentemente", "claro que sim", "claro que não"],
+    ["Sim", "não", "bati", "a batida foi feia", "a batida não foi muito forte", "infelizmente sim"],
+    ["Sim", "não", "infelizmente sim", "ainda não", "estou vendendo", "acho que sim", "acho que vou vender"],
+    ["Já comprei", "Ainda não", "vou", "vou comprar", "devo comprar"],
+    ["Nao sei", "Fusca", "Qualquer carro", "não sei o modelo", "Aquele carro"],
+    ["Nao sei", "Fusca", "Qualquer carro", "não sei o modelo", "Aquele carro"],
+    ["Sim", "apenas um", "um só", "não sei quantos"],
+    ["Sim", "apenas dois","dois só", "não sei quantos"],
+    ["Não quer mais?", "porque apenas 1?", "somente um?" ,"só um?"],
+    ["Quantos?", "qual quantidade?", "muitos"],
+    ["Quantos?", "muitos", "vários", "uma variedade"],
+    ["Quantos?", "são muitos?", "qual a quantidade?"],
+    ["São muitos", "tem bastante", "são vários"],
+    ["São muitos", "tem bastante", "são vários"],
+    ["São muitos", "tem bastante", "são vários"],
+    ["Python", "javascript", "c Sharp"],
+    ["Sim", "eu programo", "Amo programação"],
+    ["Qualquer linguagem", "linguagem é ferramenta", "Python", "Java"],
+    ["Qualquer linguagem", "linguagem é ferramenta", "Python", "Java"],
+    ["Qualquer linguagem", "linguagem é ferramenta", "Python", "Java"],
+    ["Sei", "python é fácil", "claro", "acho que sei", "talvez eu saiba"],
+    ["Sei", "java é fácil", "claro", "acho que sei", "talvez eu saiba"],
+    ["Sei", "JS é simples", "Estou estudando", "estou aprendendo"],
+    ["Vamos programar", "agora?", "nao quero programar agora", "bora então", "estou pronto para codar"],
+    ["Vamos", "programar, agora?", "nao quero programar agora", "bora então", "estou pronto para codar"],
+    ["Devemos", "não sei", "acho que devemos", "não devemos"],
+    ["Já", "Já sim", "ainda não", "vamos programar"],
+    ["Não sei", "não devemos programar", "sim devemos"],
+    ["Acho que preciso", "vou precisar", "já consegui fazer", "não precisa mais"],
+    ["Não estou ocupado", "estou muito ocupado", "ocupadíssimo", "demais", "ocupado pra caramba"],
+    ["Claro", "vou ligar", "te ligo em breve", "já vou ligar", "te ligo Jajá"]
+
+
+    
+
+
+
+
 
 ]
